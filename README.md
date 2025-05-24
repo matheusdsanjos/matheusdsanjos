@@ -1,8 +1,6 @@
 # Olá, eu sou Matheus dos Anjos de Oliveira! 👋
 
-## 💻 Desenvolvedor Mobile & Front-end
-
-Bolsista de desenvolvimento focado em criar experiências incríveis para aplicativos e websites. Apaixonado por tecnologia e sempre em busca de novos desafios.
+## 💻 Desenvolvimento Mobile & Front-end
 
 ## 🚀 Habilidades
 
