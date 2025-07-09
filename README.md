@@ -9,3 +9,9 @@
 ### 📫 Contact me
 
 Feel free to reach out through the contact links on my GitHub profile!
+
+---
+
+> **Note:**  
+> Most of my current repositories are projects developed during my undergraduate studies.  
+> Soon, I will start publishing projects specifically designed for my professional portfolio.
